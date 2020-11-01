@@ -1,2 +1,2 @@
 # hjerbata
-姉妹言語。Beginners Ease Version of  FunCobal-family。名前は「お茶」の意。*.hjb
+Sister language, beginners ease version of  FunCobal-family. Pronounce is /xʲɛrˈbata/. The name means 'tea'.The extention is '*.hjb'.
